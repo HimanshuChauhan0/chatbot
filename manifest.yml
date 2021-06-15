@@ -1,1 +1,4 @@
-manifest.yml
+ applications:
+ - name: Redstore
+   random-route: true
+   memory: 128M
